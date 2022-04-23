@@ -1,0 +1,31 @@
+.form {
+    width: 300px;
+    border: 1px solid green;
+    padding: 20px;
+    margin: 0 auto;
+    font-weight: 700px; 
+}
+
+.form input {
+    width: 100%;
+    padding: 10px 0;
+}
+
+.nhaplieu {
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+.button {
+    color: white;
+    background-color: green;
+    border-radius: 5px;
+}
+.xinchao {
+    text-align: center;
+    font-family: Courier;
+    padding: 5px 5px 5px 5px;
+}
+.phancuoi {
+    border: 0px;
+    margin: 0px;
+}
